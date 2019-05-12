@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Voros\\Documents\\CS Project\\learning-key-generation\\Code\\Data\\Key-Model-Exp-16-16-b53c9ef0-e15f-413c-8768-e8bcdcbd2174\\model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Voros\\Documents\\CS Project\\learning-key-generation\\Code\\Data\\Key-Model-Exp-16-16-b53c9ef0-e15f-413c-8768-e8bcdcbd2174\\model.ckpt"
