@@ -9,7 +9,7 @@ from result_collector import directory_results
 import os
 
 def main():
-    get_results = True
+    get_results = False
     
     if get_results:
         rootdir = os.path.dirname(os.path.abspath(__file__)) + str("\Experiment_Results")
